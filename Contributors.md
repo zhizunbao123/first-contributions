@@ -8,7 +8,7 @@
 - [Daniel Carroll](https://github.com/Krydan)
 -[Rajan Lodhiya]
 -[Anas Muhammed]
-- [zhizunbao](~~hello contributors~~ H~2~O)
+- [zhizunbao](~~hello contributors~~) (drink  H~2~O)
 -[Ravi prakash](https://github.com/321ravi)
 [Gbegudu Joshua](https://github.com/jaykay04)
 -[Arin Santry](https://github.com/arin-santry)
